@@ -1,3 +1,8 @@
-The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+# @diotoborg/nostrum-nostrum-ipsum
+A node.js module to perform matching and collection of values against SDP strings.
 
-Simple support tea in reguide template can increase for an open source software project with an increasing number of dependents
+We have a plain matcher function and a matcher function using [jsonpath](https://www.npmjs.com/package/jsonpath) for data matching specification.
+
+Sample usage: see tests.
+
+
